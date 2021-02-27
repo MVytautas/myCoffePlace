@@ -1,0 +1,14 @@
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Vytautas/dev/coffe-list/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/Vytautas/dev/coffe-list/Application/obj/Debug/netstandard2.0/Application.pdb

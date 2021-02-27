@@ -1,0 +1,12 @@
+/Users/Vytautas/dev/coffe-list/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/Vytautas/dev/coffe-list/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/Vytautas/dev/coffe-list/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/Vytautas/dev/coffe-list/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/Vytautas/dev/coffe-list/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/Vytautas/dev/coffe-list/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

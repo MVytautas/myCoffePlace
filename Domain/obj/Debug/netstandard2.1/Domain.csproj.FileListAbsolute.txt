@@ -1,0 +1,9 @@
+/Users/Vytautas/dev/coffe-list/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/Vytautas/dev/coffe-list/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/Vytautas/dev/coffe-list/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/Vytautas/dev/coffe-list/Domain/obj/Debug/netstandard2.1/Domain.pdb
